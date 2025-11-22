@@ -1,0 +1,12 @@
+file 'product-imgGen.png'
+duration 1
+file 'pngtree-robot-white-cute-robot-blue-light-background-image_2199825.jpg'
+duration 1
+file 'ai-generated-8709297_1280.png'
+duration 1
+file 'pngtree-man-holds-up-a-canon-dslr-camera-picture-image_2473772.jpg'
+duration 1
+file 'pngtree-an-indian-farmer-smiling-among-fields-image_2879657.jpg'
+duration 1
+file 'pngtree-an-indian-farmer-smiling-among-fields-image_2879657.jpg'
+duration 1
